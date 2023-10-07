@@ -71,8 +71,8 @@ python test.py
 
 此项目基于论文 *Large-scale unsupervised semantic segmentation* 实现，部分代码参考了 [jittor-pass](https://github.com/LUSSeg/PASS/tree/jittor)。
 
-## 注意事项
+<!-- ## 注意事项
 
 点击项目的“设置”，在Description一栏中添加项目描述，需要包含“jittor”字样。同时在Topics中需要添加jittor。
 
-![image-20220419164035639](https://s3.bmp.ovh/imgs/2022/04/19/6a3aa627eab5f159.png)
+![image-20220419164035639](https://s3.bmp.ovh/imgs/2022/04/19/6a3aa627eab5f159.png) -->
